@@ -1,3 +1,10 @@
+<img width="1372" height="891" alt="ollama_local_run" src="https://github.com/user-attachments/assets/29725a00-bc95-4a3b-a0b8-43b5338cbb41" />
+<img width="1372" height="891" alt="inference_result" src="https://github.com/user-attachments/assets/52b71963-ad44-4950-b53f-19163fd07cd8" />
+
+
+
+
+
 # cyber-fortune-teller
 # 🔮 사이버 점쟁이 — Cyber Fortune Teller
 
